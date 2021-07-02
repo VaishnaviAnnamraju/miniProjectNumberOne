@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Picture of Me from 12th Birthday Party - Photo for 8th grade Graduation.JPG",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
